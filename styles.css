@@ -12,7 +12,7 @@
     --font-harry: 'Harry Potter', sans-serif;
 }
 
-/* Estilos generales */
+/* Estilos generales de proyecto amigo secreto*/
 * {
     margin: 0;
     padding: 0;
@@ -560,4 +560,5 @@ button:active {
         bottom: 0;
         top: 10px;
     }
+
 }

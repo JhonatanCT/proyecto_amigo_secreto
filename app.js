@@ -1,4 +1,4 @@
-// Variables globales
+// Variables globales en el proyecto
 let amigos = []
 let amigosSeleccionados = []
 let modoJuego = "individual"
@@ -195,6 +195,7 @@ document.getElementById("amigo").addEventListener("keypress", (event) => {
 document.addEventListener("DOMContentLoaded", () => {
     actualizarLista()
 })
+
 
 
 
